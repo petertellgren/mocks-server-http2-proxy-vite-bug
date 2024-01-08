@@ -1,0 +1,7 @@
+[
+  {
+    "id": "base",
+    "routes": ["post-formdata:success", "get-json:success"]
+  }
+]
+

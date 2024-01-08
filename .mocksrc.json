@@ -1,0 +1,13 @@
+{
+  "mock": {
+    "collections": {
+      "selected": "base"
+    }
+  },
+  "server": {
+    "port": 3100,
+    "cors": {
+      "enabled": true
+    }
+  }
+}

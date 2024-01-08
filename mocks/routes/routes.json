@@ -1,0 +1,33 @@
+[
+  {
+    "id": "post-formdata",
+    "url": "/api/form",
+    "method": "POST",
+    "variants": [
+      {
+        "id": "success",
+        "type": "json",
+        "options": {
+          "status": 200,
+          "body": {"uuid": "success"}
+        }
+      }
+    ]
+  },
+  {
+    "id": "get-json",
+    "url": "/api/get",
+    "method": "GET",
+    "variants": [
+      {
+        "id": "success",
+        "type": "json",
+        "options": {
+          "status": 200,
+          "body": {"uuid": "success"}
+        }
+      }
+    ]
+  }
+]
+
